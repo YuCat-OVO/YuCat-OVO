@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Long](https://raw.githubusercontent.com/YuCat-OVO/YuCat-OVO/main/long.jpg)
+<img src="https://raw.githubusercontent.com/YuCat-OVO/YuCat-OVO/main/long.jpg" alt="龙" width="250"/>
+
 
 <!--
 **YuCat-OVO/YuCat-OVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
